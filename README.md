@@ -61,6 +61,11 @@ while(1);
 <br>
 <br>
 <br>
+1.serial port transfer a character 
+![WhatsApp Image 2025-11-11 at 13 33 53_2c87c8d6](https://github.com/user-attachments/assets/7f626405-34b2-4892-9664-424ca5188558)
+2.serial port transfer a message
+![WhatsApp Image 2025-11-11 at 13 33 53_d84c55b7](https://github.com/user-attachments/assets/21c4894d-8180-4581-a43f-475bd77382af)
+
 
 **Result:**
 
